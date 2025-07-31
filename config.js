@@ -11,7 +11,7 @@ const CONFIG = {
 	// └─┘┴ ┴└─┘┴└─┘└─┘
 
 	// General
-	name: 'Vital',
+	name: 'mrRiten',
 	imageBackground: true,
 	openInNewTab: true,
 	twelveHourFormat: false,
@@ -20,7 +20,7 @@ const CONFIG = {
 	greetingMorning: 'Good morning!',
 	greetingAfternoon: 'Good afternoon,',
 	greetingEvening: 'Good evening,',
-	greetingNight: 'Go to Sleep!',
+	greetingNight: 'No sleep no rest?',
 
 	// Layout
 	bentoLayout: 'bento', // 'bento', 'lists', 'buttons'
@@ -53,39 +53,39 @@ const CONFIG = {
 	firstButtonsContainer: [
 		{
 			id: '1',
-			name: 'Github',
-			icon: 'github',
-			link: 'https://github.com/',
+			name: 'YouTube',
+			icon: 'youtube',
+			link: 'https://www.youtube.com/',
 		},
 		{
 			id: '2',
-			name: 'Mail',
-			icon: 'mail',
-			link: 'https://mail.protonmail.com/',
+			name: 'HelpDesk',
+			icon: 'monitor-cog',
+			link: 'http://192.168.1.150/Workbench/Tasks.aspx',
 		},
 		{
 			id: '3',
-			name: 'Todoist',
-			icon: 'trello',
-			link: 'https://todoist.com',
+			name: 'T-terminal',
+			icon: 'chart-candlestick',
+			link: 'https://www.tbank.ru/terminal',
 		},
 		{
 			id: '4',
-			name: 'Calendar',
-			icon: 'calendar',
-			link: 'https://calendar.google.com/calendar/r',
+			name: 'EDU-YGK',
+			icon: 'graduation-cap',
+			link: 'https://edu.sttec.yar.ru/my/courses.php',
 		},
 		{
 			id: '5',
-			name: 'Reddit',
-			icon: 'glasses',
-			link: 'https://reddit.com',
+			name: 'GitHub',
+			icon: 'github',
+			link: 'https://github.com/mrRiten',
 		},
 		{
 			id: '6',
-			name: 'Odysee',
-			icon: 'youtube',
-			link: 'https://odysee.com/',
+			name: 'MagicScience',
+			icon: 'anvil',
+			link: 'https://github.com/Igroman4ik228/MagicScience',
 		},
 	],
 
@@ -135,46 +135,46 @@ const CONFIG = {
 	// First Links Container
 	firstlistsContainer: [
 		{
-			icon: 'music',
+			icon: 'brain-circuit',
 			id: '1',
 			links: [
 				{
-					name: 'Inspirational',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'ChatGPT',
+					link: 'https://chatgpt.com/',
 				},
 				{
-					name: 'Classic',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Perplexity',
+					link: 'https://www.perplexity.ai/',
 				},
 				{
-					name: 'Oldies',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Grok',
+					link: 'https://grok.com/',
 				},
 				{
-					name: 'Rock',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'MistralAI',
+					link: 'https://chat.mistral.ai/chat',
 				},
 			],
 		},
 		{
-			icon: 'coffee',
+			icon: 'mail',
 			id: '2',
 			links: [
 				{
-					name: 'Linkedin',
-					link: 'https://www.linkedin.com',
+					name: 'Gmail',
+					link: 'https://mail.google.com/mail/u/0/#inbox',
 				},
 				{
-					name: 'Dribbble',
-					link: 'https://www.dribbble.com',
+					name: 'MailRu',
+					link: 'https://e.mail.ru/inbox/?app_id_mytracker=58519&authid=m08e5qkq.4jl&back=1%2C1&dwhsplit=s10273.b1ss12743s&from=login%2Cnavi&x-login-auth=1',
 				},
 				{
-					name: 'Trello',
-					link: 'https://www.trello.com',
+					name: 'YndexMail',
+					link: 'https://mail.yandex.ru/?uid=744815315#inbox',
 				},
 				{
-					name: 'Slack',
-					link: 'https://www.slack.com',
+					name: 'RelayFireFox',
+					link: 'https://relay.firefox.com/accounts/profile/',
 				},
 			],
 		},
