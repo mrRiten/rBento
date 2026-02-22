@@ -151,8 +151,8 @@ const CONFIG = {
 					link: 'https://grok.com/',
 				},
 				{
-					name: 'MistralAI',
-					link: 'https://chat.mistral.ai/chat',
+					name: 'QwenAI',
+					link: 'https://chat.qwen.ai/',
 				},
 			],
 		},
